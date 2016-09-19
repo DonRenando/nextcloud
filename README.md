@@ -1,2 +1,2 @@
 # nextcloud upgrade
-shell script to help nextclcoud upgrade 
+shell script to help nextcloud upgrade 
